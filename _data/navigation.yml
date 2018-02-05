@@ -1,9 +1,9 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
 
-- title: "Templates"
+- title: "Pdf"
   url: "/design/"
   side: left
   dropdown:
@@ -28,7 +28,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Audio"
   url: "/headers/"
   side: left
   dropdown:
@@ -55,7 +55,6 @@
     url: "/changelog/"
   - title: "Roadmap"
     url: "/roadmap/"
-
 - title: Blog
   url: "/blog/"
   side: left
