@@ -8,7 +8,7 @@
   side: left
   dropdown:
   - title: "Vedas"
-    url: "/design/grid/"
+    url: "/design/vedas//"
   - title: "Purans"
     url: "/design/typography/typography/"
   - title: "Page/Post"
