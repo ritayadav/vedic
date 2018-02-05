@@ -51,7 +51,7 @@
   url: "/documentation/"
   side: left
   dropdown:
-  - title: "Changelog"
+  - title: "Download"
     url: "/changelog/"
   - title: "Roadmap"
     url: "/roadmap/"
