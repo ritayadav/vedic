@@ -8,9 +8,9 @@
   side: left
   dropdown:
   - title: "Vedas"
-    url: "/design/vedas//"
+    url: "/design/vedas/"
   - title: "Purans"
-    url: "/design/typography/typography/"
+    url: "/design/vedas/"
   - title: "Page/Post"
     url: "/design/page/"
   - title: "Post-Left-Sidebar"
