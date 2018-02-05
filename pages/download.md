@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Change is good!"
+title: "Download"
 meta_title: "How to download?"
 subheadline: "How to download?"
 teaser: "Download using Internet Download Manager (IDM)"
@@ -39,7 +39,7 @@ permalink: "/download/"
 :   Added [alert-include]({{ site.url }}/documentation/#alert-embed-an-alert-in-your-content) and structured Sass-files.
 
 2015-03-25  // Video
-:   Made a new [video tutorial](https://www.youtube.com/embed/rLS-BEvlEyY)
+:   Watch this video explaining ,How to download All pdf once with idm in Single click. Click on change quality and view in HD [video tutorial](https://www.youtube.com/embed/rLS-BEvlEyY)
 
 <div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/rLS-BEvlEyY" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
