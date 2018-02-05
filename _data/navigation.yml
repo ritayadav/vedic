@@ -3,7 +3,7 @@
   side: left
 
 
-- title: "Pdf"
+- title: "Pdfs"
   url: "/design/"
   side: left
   dropdown:
@@ -28,7 +28,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Audio"
+- title: "Audios"
   url: "/headers/"
   side: left
   dropdown:
@@ -47,6 +47,14 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
+- title: Videos
+  url: "/documentation/"
+  side: left
+  dropdown:
+  - title: "Changelog"
+    url: "/changelog/"
+  - title: "Roadmap"
+    url: "/roadmap/"
 - title: Documentation
   url: "/documentation/"
   side: left
