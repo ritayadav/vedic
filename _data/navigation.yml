@@ -61,13 +61,10 @@
   dropdown:
   - title: "Download"
     url: "/download/"
-- title: Blog
-  url: "/blog/"
+- title: Archive
+  url: "/blog/archive/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
+  
 - title: "Search"
   url: "/search/"
   side: right
