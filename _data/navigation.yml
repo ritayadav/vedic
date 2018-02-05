@@ -60,7 +60,7 @@
   side: left
   dropdown:
   - title: "Download"
-    url: "/changelog/"
+    url: "/download/"
   - title: "Roadmap"
     url: "/roadmap/"
 - title: Blog
